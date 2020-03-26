@@ -1,0 +1,55 @@
+body{
+  background: url("https://wallpaperaccess.com/full/381761.jpg");
+  background-size: cover;
+}
+
+table{
+  width: 50%;
+  height: 300px;
+  margin: auto;
+}
+tr{
+  width:60%;
+}
+td{
+  width: 20%;
+  background: grey;
+}
+h1{
+  text-align: center;
+  font-size: 4.0em;
+  margin-bottom: 1%;
+  font-family: 'Lobster', cursive;
+}
+button{
+  margin: 1% 45%;
+  padding: 10px 3px;
+  width: 10%;
+  font-family: 'Orbitron', sans-serif;
+  border-radius: 20px;
+  color: white;
+  background: red;
+}
+select{
+  margin: 1% 47%;
+  padding: 10px 3px;
+  width:6%;
+  background: black;
+  color:white;
+  border-radius: 20px;
+}
+
+img{
+  width: 20%;
+  margin-left:40%;
+  margin-top: 1%;
+}
+a{
+  margin:1% 47%;
+  font: bold 11px Orbitron;
+  text-decoration: none;
+  background-color: #EEEEEE;
+  color: #333333;
+  padding: 2px 12px;
+  border: 1px groove #CCCCCC;
+}
